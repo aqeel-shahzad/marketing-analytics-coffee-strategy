@@ -93,7 +93,7 @@ Example:
 
 The full business report is available in the `report/` folder:
 
-[View Portfolio Case Study Report](report/Marketing-Analytics-Coffee-Strategy-Portfolio-Case-Study.pdf)
+[View Portfolio Case Study Report](report/Coffee-Marketing-Analytics-Portfolio-Case-Study.pdf)
 
 ## Repository Structure
 
